@@ -2,7 +2,7 @@ Package.describe({
     name: 'slayerokk:bootstrap',
     version: '0.0.1',
     summary: 'Includes Bootstrap 3.3.7 in Meteor Project',
-    git: 'https://github.com/slayerokk/meteor-fontawesome.git',
+    git: 'https://github.com/slayerokk/meteor-bootstrap.git',
     documentation: 'README.md'
 });
 
